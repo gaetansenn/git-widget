@@ -20,7 +20,7 @@ export default {
 ```js
 export default {
   gitHash: {
-    html: true, // Display tooltip (default: false)
+    html: true, // Display tooltip (default: true)
     disabled: false // ex: disabled for production (default: false)
   }
 }

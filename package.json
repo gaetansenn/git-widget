@@ -1,6 +1,6 @@
 {
   "name": "@dewib/dw-git-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module for nuxt to display last git hash build",
   "main": "lib/index.js",
   "repository": "git@github.com:gaetansenn/dw-git-hash.git",
