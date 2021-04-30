@@ -1,6 +1,8 @@
 # dw-git-hash
 Display last build hash version inside your website
 
+![alt text](https://github.com/gaetansenn/dw-git-hash/blob/master/preview.png?raw=true)
+
 ## Installation
 
 Add package `yarn add @dewib/dw-git-hash`
