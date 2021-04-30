@@ -1,0 +1,23 @@
+{
+  "name": "@dewib/dw-git-hash",
+  "version": "1.0.0",
+  "description": "Module for nuxt to display last git hash build",
+  "main": "lib/index.js",
+  "repository": "git@github.com:gaetansenn/dw-git-hash.git",
+  "author": "Gaetan SENN <gaetan.senn@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "nuxtjs",
+    "hash",
+    "build"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@nuxtjs/eslint-config": "^3.1.0",
+    "@nuxtjs/eslint-module": "^2.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.10.0",
+    "eslint-plugin-nuxt": "^1.0.0"
+  }
+}
