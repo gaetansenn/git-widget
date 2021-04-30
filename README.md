@@ -1,5 +1,5 @@
 # dw-git-hash
-Display last build hash version inside your website
+Display last git hash version inside your website
 
 ![alt text](https://github.com/gaetansenn/dw-git-hash/blob/master/preview.png?raw=true)
 
