@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Widget for nuxt to display git info build",
   "main": "lib/index.js",
-  "repository": "git@github.com:gaetansenn/dw-git-hash.git",
+  "repository": "git@github.com:gaetansenn/git-widget.git",
   "author": "Gaetan SENN <gaetan.senn@gmail.com>",
   "license": "MIT",
   "keywords": [
